@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactwikisearch/static/css/main.f6fe00a8.chunk.css",
+    "main.js": "/reactwikisearch/static/js/main.5ec13750.chunk.js",
+    "main.js.map": "/reactwikisearch/static/js/main.5ec13750.chunk.js.map",
+    "runtime-main.js": "/reactwikisearch/static/js/runtime-main.e9472072.js",
+    "runtime-main.js.map": "/reactwikisearch/static/js/runtime-main.e9472072.js.map",
+    "static/js/2.0cd90d13.chunk.js": "/reactwikisearch/static/js/2.0cd90d13.chunk.js",
+    "static/js/2.0cd90d13.chunk.js.map": "/reactwikisearch/static/js/2.0cd90d13.chunk.js.map",
+    "static/js/3.50481425.chunk.js": "/reactwikisearch/static/js/3.50481425.chunk.js",
+    "static/js/3.50481425.chunk.js.map": "/reactwikisearch/static/js/3.50481425.chunk.js.map",
+    "index.html": "/reactwikisearch/index.html",
+    "static/css/main.f6fe00a8.chunk.css.map": "/reactwikisearch/static/css/main.f6fe00a8.chunk.css.map",
+    "static/js/2.0cd90d13.chunk.js.LICENSE.txt": "/reactwikisearch/static/js/2.0cd90d13.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9472072.js",
+    "static/js/2.0cd90d13.chunk.js",
+    "static/css/main.f6fe00a8.chunk.css",
+    "static/js/main.5ec13750.chunk.js"
+  ]
+}
